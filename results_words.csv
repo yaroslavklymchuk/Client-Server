@@ -1,0 +1,7 @@
+cosine,damerau_levenshtein,hamming,jaro-winkler,word_to_compare,word_to_find_similar
+0.1889822365046136,7,7,0.0,Winkler,Jaro
+0.5345224838248488,4,8,0.6904761904761904,klymchuk,Pinchuk
+0.0,7,7,0.0,Jaro,Pinchuk
+0.2857142857142857,6,6,0.42857142857142855,Hamming,Hipster
+0.2672612419124244,7,8,0.4226190476190476,Yaroslav,Hipster
+0.11180339887498948,9,9,0.4083333333333334,devterov,Philosophy
